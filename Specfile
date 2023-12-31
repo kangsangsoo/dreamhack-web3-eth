@@ -1,0 +1,13 @@
+[wargame]
+
+title = Alpha Hunter
+flag = DH{fake_flag}
+tags = web3
+
+[vm]
+os = linux
+memory = 512
+disk = 1596
+ports = 10089/tcp
+allow_outgoing = true
+docker_compose = false
